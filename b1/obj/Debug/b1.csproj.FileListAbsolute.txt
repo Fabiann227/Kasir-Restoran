@@ -1,0 +1,16 @@
+C:\Users\encry\source\repos\b1\b1\bin\Debug\b1.exe.config
+C:\Users\encry\source\repos\b1\b1\bin\Debug\b1.exe
+C:\Users\encry\source\repos\b1\b1\bin\Debug\b1.pdb
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.csprojAssemblyReference.cache
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.Properties.Resources.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.csproj.GenerateResource.cache
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.csproj.CoreCompileInputs.cache
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.exe
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.pdb
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FormLogin.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FormMainMenu.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FrmEntryPelanggan.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FrmPesanMakanan.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FrmEntryMenu.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FrmReport.resources
+C:\Users\encry\source\repos\b1\b1\obj\Debug\b1.FrmTransaksi.resources
